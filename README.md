@@ -1,19 +1,32 @@
-git-learning
+<div align="center">"git-learning"
 
-«learning git & github»
+learning git & github
 
-stuff
+""Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" (https://git-scm.com/)
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/)
 
-git clone
-git add
-git commit
-git push
-git pull
+<br>╭──────────────────────────────────────╮
+│                                      │
+│        $ git status                  │
+│        $ git add .                   │
+│        $ git commit -m "learn"       │
+│        $ git push                    │
+│                                      │
+╰──────────────────────────────────────╯
 
-files
+<br>"learning by doing"
 
-- "names_random.py"
-- "README.md"
-- "hello.txt"
-- "test.txt"
+</div>---
+
+📂
+
+git-learning/
+├── README.md
+├── names_random.py
+├── hello.txt
+├── test.txt
+└── d.txt
+
+---
+
 
