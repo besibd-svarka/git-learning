@@ -1,1 +1,1 @@
-HelloWorld("print")
+Hello! Im making some projects on python and let you learn how to make some cool things! Im also learning python cuz im new at this xD
